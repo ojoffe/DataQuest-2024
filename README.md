@@ -1,1 +1,1 @@
-use the test(3) I attached when running the code, train file can be the original. For results just look at the predicted fraud column and line it up with the transaction number
+My team's machine learning competition at the University of Western Ontario. We placed 2nd.
